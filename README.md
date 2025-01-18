@@ -169,7 +169,7 @@ Use Case: Input Product
 
 Diagram:
 
-![alt text](UCD/admininputdataproduct.png?raw=true)
+![alt text](UCD/Admininputdataproduct.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan gambar product lalu menambahkan judul dan deskripsi sesuain kategori.
@@ -188,7 +188,7 @@ Use Case: Input Mitra
 
 Diagram:
 
-![alt text](UCD/admininputdatamitra.png?raw=true)
+![alt text](UCD/Admininputdatamitra.png?raw=true)
 
 Deskripsi Singkat
 Admin Menginput data Mitra.
@@ -206,7 +206,7 @@ Use Case: Input User
 
 Diagram:
 
-![alt text](UCD/admininputdatauser.png?raw=true)
+![alt text](UCD/Admininputdatauser.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan Data User.
@@ -224,7 +224,7 @@ Use Case: Input Pelanggan
 
 Diagram:
 
-![alt text](UCD/admininputdatapelanggan.png?raw=true)
+![alt text](UCD/Admininputdatapelanggan.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan data Pelanggan.
@@ -242,7 +242,7 @@ Use Case: Input Asset
 
 Diagram:
 
-![alt text](UCD/admininputdataasset.png?raw=true)
+![alt text](UCD/Admininputdataasset.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan data Asset.
