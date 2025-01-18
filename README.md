@@ -44,7 +44,12 @@ Berikut ini fungsi admin yaitu:
 - Login
 - view Dashboard 
 - View Pelanggan
-- Input Nama Product
+- Input Data Product
+- Input Data Mitra
+- Input Data User
+- Input Data Pelanggan
+- Input Data Asset
+- Input Data Kasir
 - Save Data
 - Update data
 - Delete data
@@ -54,7 +59,7 @@ Berikut ini fungsi admin yaitu:
 Website Seroo merupakan website yang diaplikasikan pada website dengan Terdapat 2 jenis aktor yaitu admin dan Pelanggan. Pengolahan informasi dan deskripsi product dilakukan oleh admin pada website dan Pelanggan hanya  dapat melihat informasi product pada website.
 
 **2.1.1 Antarmuka Sistem**
-![alt text](UCD/Antar Muka Sistem.drawio.png?raw=true)
+![alt text](UCD/AntarMukaSistem.png?raw=true)
 
 Website Seroo memiliki 2 pengunjung yaitu admin dan Pelanggan. Admin mempunyai fungsi mengelola tampilan informasi dan juga menginputkan deksripsi mengenai product Seroo, Pelanggan bisa melihat Product, Layanan,Tentang, Team dan lokasi bisnis Seroo.
 
@@ -63,9 +68,27 @@ Website Seroo memiliki 2 pengunjung yaitu admin dan Pelanggan. Admin mempunyai f
 **Halaman Admin**
 |  |  |
 |--|--|
-| ![alt text](?raw=true) halaman login admin diminta untuk mengisi username dan password.| ![alt text](Website_image/admin_dashboard.jpg?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.
+| ![alt text](?raw=true) halaman login admin diminta untuk mengisi username dan password.
 |  |  |
-| ![alt text](revisi/DataKegiatan.png?raw=true) Pada halaman admin akan terdapat halaman Dashboard yang pertama kali muncul. Halaman Dashboard di gunakan untuk Admin dapat melihat total pelanggan, total user, total mitra, data pelanggan, Presentase kondisi aset, Pertumbuhan pelanggan, dan Product terbaru.| ![alt text](Website_image/admin_mitra.jpg?raw=true) Pada halaman Mitra, Admin dapat melihat dan menambahkan data mitra.| ![alt text](Website_image/admin_user.jpg?raw=true) Pada halaman User, Admin dapat melihat dan menambahkan data User.| ![alt text](Website_image/admin_pelanggan.jpg?raw=true) Pada halaman Pelanggan, Admin dapat melihat dan menambahkan data pelanggan. | ![alt text](Website_image/admin_product.jpg?raw=true) Pada halaman Product, Admin dapat mengelola data Product, yang di mana admin dapat Memasukan Image Product, Memberikan keterangan Product dan Memberikan deskripsi Product. Pada halaman ini juga, admin dapat melakukan Delete product, Tambah Product, Edit Product dan menyimpan Product yang telah di perbarui oleh admin.![alt text](Website_image/admin_asset.jpg?raw=true) Pada halaman asset, Admin dapat melihat dan menambahkan data asset. 
+| ![alt text](Website_image/admin_dashboard.jpg?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.
+|  |  |
+| ![alt text](revisi/DataKegiatan.png?raw=true) Pada halaman admin akan terdapat halaman Dashboard yang pertama kali muncul. Halaman Dashboard di gunakan untuk Admin dapat melihat total pelanggan, total user, total mitra, data pelanggan, Presentase kondisi aset, Pertumbuhan pelanggan, dan Product terbaru.
+|  |  |
+| ![alt text](Website_image/admin_mitra.jpg?raw=true) Pada halaman Mitra, Admin dapat melihat dan menambahkan data mitra.
+|  |  |
+| ![alt text](Website_image/admin_user.jpg?raw=true) Pada halaman User, Admin dapat melihat dan menambahkan data User.
+|  |  |
+| ![alt text](Website_image/admin_pelanggan.jpg?raw=true) Pada halaman Pelanggan, Admin dapat melihat dan menambahkan data pelanggan. 
+|  |  |
+| ![alt text](Website_image/admin_product.jpg?raw=true) Pada halaman Product, Admin dapat mengelola data Product, yang di mana admin dapat Memasukan Image Product, Memberikan keterangan Product dan Memberikan deskripsi Product. Pada halaman ini juga, admin dapat melakukan Delete product, Tambah Product, Edit Product dan menyimpan Product yang telah di perbarui oleh admin.
+|  |  |
+|![alt text](Website_image/admin_asset.jpg?raw=true) Pada halaman asset, Admin dapat melihat dan menambahkan data asset. 
+|  |  |
+|![alt text](Website_image/admin_asset.jpg?raw=true) Pada halaman asset, Admin dapat melihat dan menambahkan data asset.
+|  |  |
+|[alt text](Website_image/admin_Kasir.jpg?raw=true) Pada halaman Kasir, Admin dapat melihat dan menambahkan data pelanggan seperti nama pelanggan, pesanan, tanggal pemesanan, jumlah pemesanan , total harga, dan metode pembayaran.
+ 
+
 
 
 
@@ -86,7 +109,7 @@ Website Seroo memiliki 2 pengunjung yaitu admin dan Pelanggan. Admin mempunyai f
 
 
 **2.1.3 Antarmuka perangkat keras**
-![alt text](Image/perangkatKeras.png?raw=true)
+![alt text](UCD/AntarMukaPerankatKeras.png?raw=true)
 Antarmuka perangkat keras yang digunakan untuk mengoperasikan Sistem Informasi Seroo antara lain :
 
 PC / Laptop Untuk menjalankan Aplikasi ini.
@@ -123,13 +146,13 @@ tidak ada
 tidak ada
 
 ## 2.2 Spesifikasi kebutuhan fungsional
-![alt text](Image/2.2.png?raw=true)
+![alt text](UCD/SpesifikasiKebuthanFungsional.png?raw=true)
 **2.2.1 Admin Login**
 
 Use Case: Login
 
 Diagram:
-![alt text](Image/adminLogin.png?raw=true)
+![alt text](UCD/AdminLogin.png?raw=true)
 
 Deskripsi Singkat 
 Admin melakukan login terlebih dahulu sebelum masuk ke tampilan home admin, apabila gagal login akan muncul pesan alert error login. 
@@ -148,7 +171,7 @@ Use Case: Input Product
 
 Diagram:
 
-![alt text](Image/2.2.2.png?raw=true)
+![alt text](UCD/admininputdataproduct.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan gambar product lalu menambahkan judul dan deskripsi sesuain kategori.
@@ -167,7 +190,7 @@ Use Case: Input Mitra
 
 Diagram:
 
-![alt text](Image/2.2.2.png?raw=true)
+![alt text](UCD/admininputdatamitra.png?raw=true)
 
 Deskripsi Singkat
 Admin Menginput data Mitra.
@@ -185,7 +208,7 @@ Use Case: Input User
 
 Diagram:
 
-![alt text](Image/2.2.2.png?raw=true)
+![alt text](UCD/admininputdatauser.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan Data User.
@@ -203,7 +226,7 @@ Use Case: Input Pelanggan
 
 Diagram:
 
-![alt text](Image/2.2.2.png?raw=true)
+![alt text](UCD/admininputdatapelanggan.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan data Pelanggan.
@@ -221,7 +244,7 @@ Use Case: Input Asset
 
 Diagram:
 
-![alt text](Image/2.2.2.png?raw=true)
+![alt text](UCD/admininputdataasset.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan data Asset.
@@ -239,7 +262,7 @@ Xref: Bagian 3.2.6, Input data Asset
 Use Case: Mengunjungi website
 
 Diagram:
-![alt text](Image/pengunjungMengunjungiWeb.png?raw=true)
+![alt text](UCD/PelangganMengunjungiWebsite.png?raw=true)
 
 Deskripsi Singkat 
 pengunjung mengunjungi website dan melihat informasi mengenai bisnis Seroo
@@ -306,7 +329,7 @@ Salah satu cara mengakses website ini yaitu dengan membuka website Seroo, lalu p
 | Exception Push | Tidak ada koneksi |
 
 **3.2.3 Admin Input data Mitra*
-| Nama Fungsi | Input Informasi Mitra |
+| Nama Fungsi | Input data Mitra dari Bisnis Seroo|
 | ------ | ------ |
 | Xref       | Bagian 3.2.3, Input data Mitra   |
 | Triger       | Membuka website sistem informasi admin Seroo     |
@@ -319,7 +342,7 @@ Salah satu cara mengakses website ini yaitu dengan membuka website Seroo, lalu p
 | Exception Push | Tidak ada koneksi |
 
 **3.2.4 Admin Input data Pelanggan*
-| Nama Fungsi | Input Informasi Pelanggan|
+| Nama Fungsi | Input data Pelanggan dari Bisnis Seroo|
 | ------ | ------ |
 | Xref       | Bagian 3.2.4, Input data Pelanggan    |
 | Triger       | Membuka website sistem informasi admin Seroo     |
@@ -331,8 +354,8 @@ Salah satu cara mengakses website ini yaitu dengan membuka website Seroo, lalu p
 | Post Condition | Admin mengelola Pelanggan
 | Exception Push | Tidak ada koneksi |
 
-**3.2.5 Admin Input Informasi Asset*
-| Nama Fungsi | Input Informasi Asset |
+**3.2.5 Admin Input data Asset*
+| Nama Fungsi | Input Informasi Asset Bisnis Seroo |
 | ------ | ------ |
 | Xref       | Bagian 3.2.5, Input data Asset    |
 | Triger       | Membuka website sistem informasi admin Seroo     |
@@ -344,16 +367,16 @@ Salah satu cara mengakses website ini yaitu dengan membuka website Seroo, lalu p
 | Post Condition | Admin mengelola Asset
 | Exception Push | Tidak ada koneksi |
 
-**3.2.6 Admin Input Informasi deskripsi Product User*
-| Nama Fungsi | Input Informasi User |
+**3.2.6 Admin Input data Penjualan*
+| Nama Fungsi | Input data Penjualan Product Seroo|
 | ------ | ------ |
-| Xref       | Bagian 3.2.6, Input data user  |
+| Xref       | Bagian 3.2.6, Input data Penjualan  |
 | Triger       | Membuka website sistem informasi admin Seroo     |
-| Precondition | Menginput data user Seroo |
+| Precondition | Menginput data penjualan product seroo |
 | Basic Path | 1. Sistem akan menampilkan tampilan input user. |
-|            | 2. Admin dapat melihat,menambahkan, menghapus dan menyimpan user. |
+|            | 2. Admin dapat melihat,menambahkan, menghapus data penjualan Product Seroo. |
 | Alternative | Tidak ada |     
-| Post Condition | Admin mengelola User
+| Post Condition | Admin mengelola Penjualan Product Seroo
 | Exception Push | Tidak ada koneksi |
 
 **3.2.7 Mengunjungi website**
@@ -370,7 +393,8 @@ Salah satu cara mengakses website ini yaitu dengan membuka website Seroo, lalu p
 | Exception Push     |    Jika ada kesalahan server atau gangguan teknis, sisem tidak dapat di akses pengguna. Pengguna dapat mencoba kembali atau menghubungi dukungan teknis.    |
 
 ## 3.3 Struktur Detail Kebutuhan Non-Fungsional
-![alt text](Image/3.3.png?raw=true)
+![alt text](UCD/StrukturDetailKebutuhanNonFungsional.png?raw=true)
+
 **3.3.1 Logika Struktur Data**
 Struktur data logika pada sistem informasi Seroo yang di jalankan melalui ERD.
 
@@ -445,37 +469,92 @@ Struktur data logika pada sistem informasi Seroo yang di jalankan melalui ERD.
 |created_at|timestamp|Berisi waktu pembuatan pelanggan|
 |updated_at|timestamp|Berisi waktu update pelanggan|
 
+**Tabel Penjualan**
+|Data Item|Tipe Data|Deskripsi|
+|--|--|--|
+|id_Penjualan|int|Auto-increment dari id_Penjualan|
+|tanggal_jual|datetime|Berisi tanggal dan waktu penjualan product seroo|
+|jumlah_list |json|Berisi list penjualan dari product seroo |
+|total_harga|int|Berisi total harga dari product seroo |
+|Metode_pembayaran|	enum('QRIS', 'Transfer', 'Cash')|Berisi metode yang di gunakan untuk membayar product seroo|
+|Catatan|Text|Berisi catatan dari penjualan product seroo|
+|created_at|timestamp|Berisi waktu pembuatan penjualan|
+|updated_at|timestamp|Berisi waktu update penjualan|
+
 
 
 ## Pembagian tugas
-Pemb->Nindy
+Pembuatan Website
+Halaman Home -> Ninda + Ibrahim
+
+Halaman Layanan -> Ibrahim
+Halaman Product -> Ibrahim
+Halaman Location -> Ibrahim
+Halaman Admin -> Ibrahim + jelly + Ninda
+
+Halaman Team -> Jelly + Ibrahim
+
+Pembuatan Laporan
+BAB 1 Pendahuluan -> Ninda
 
 BAB 2 
 2.1
   
-  2.1.1 -> Nindy
+  2.1.1 -> Jelly
   
-  2.1.2 -> Nindy
+  2.1.2 -> Ninda + Ibrahim
   
-  2.1.3 -> Ariyan
+  2.1.3 -> Jelly
   
-  2.1.4 -> Ariyan
+  2.1.4 -> Ninda
  
-  2.1.5 -> Ariyan
+  2.1.5 -> Ninda
   
-  2.1.6 -> Raditya
+  2.1.6 -> Ninda
   
-  2.1.7 -> Raditya
+  2.1.7 -> Jelly
   
-  2.1.8 -> Raditya
+  2.1.8 -> Ninda
 
-2.2 semua poin-poin (nindy)
+2.2 
+
+ 2.2.1 -> Ninda 
+  
+  2.2.2 -> Ninda
+  
+  2.2.3 -> Ninda
+  
+  2.2.4 -> Ninda
+ 
+  2.2.5 -> Ninda
+  
+  2.2.6 -> Jelly
+  
+  2.2.7 -> Jelly
+  
+  2.2.8 -> Jelly
 
 BAB 3 
 
-3.1 nindy
+3.1 Ibrahim + Ninda + Jelly
 
-3.2 nindy
+3.2 Ninda + Jelly
+3.2.1 -> Ninda 
+  
+  2.2.2 -> Ninda
+  
+  2.2.3 -> Jelly
+  
+  2.2.4 -> Ibrahim
+ 
+  2.2.5 -> Ibrahim
+  
+  2.2.6 -> Jelly
+  
+  2.2.7 -> Jelly
 
-3.3 Nindy
+3.3 Jelly + Ibrahim
+
+Pembuatan Diagram Pada Laporan: Jelly dan Ninda
+Melakukan ScreenShoot Halaman Website:Ibrahim
 
