@@ -169,7 +169,7 @@ Use Case: Input Product
 
 Diagram:
 
-![alt text](UCD/Admininputdataproduct.png?raw=true)
+![alt text](UCD/Admininputdataproduk.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan gambar product lalu menambahkan judul dan deskripsi sesuain kategori.
