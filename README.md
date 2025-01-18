@@ -70,9 +70,7 @@ Website Seroo memiliki 2 pengunjung yaitu admin dan Pelanggan. Admin mempunyai f
 |--|--|
 | ![alt text](?raw=true) halaman login admin diminta untuk mengisi username dan password.
 |  |  |
-| ![alt text](Website_image/admin_dashboard.jpg?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.
-|  |  |
-| ![alt text](revisi/DataKegiatan.png?raw=true) Pada halaman admin akan terdapat halaman Dashboard yang pertama kali muncul. Halaman Dashboard di gunakan untuk Admin dapat melihat total pelanggan, total user, total mitra, data pelanggan, Presentase kondisi aset, Pertumbuhan pelanggan, dan Product terbaru.
+| ![alt text](Website_Image/admin_dashboard.jpg.jpg?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.Pada halaman admin akan terdapat halaman Dashboard yang pertama kali muncul. Halaman Dashboard di gunakan untuk Admin dapat melihat total pelanggan, total user, total mitra, data pelanggan, Presentase kondisi aset, Pertumbuhan pelanggan, dan Product terbaru.
 |  |  |
 | ![alt text](Website_image/admin_mitra.jpg?raw=true) Pada halaman Mitra, Admin dapat melihat dan menambahkan data mitra.
 |  |  |
