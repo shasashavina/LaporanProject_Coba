@@ -72,19 +72,19 @@ Website Seroo memiliki 2 pengunjung yaitu admin dan Pelanggan. Admin mempunyai f
 |  |  |
 | ![alt text](Website_Image/admin_dashboard.png?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.Pada halaman admin akan terdapat halaman Dashboard yang pertama kali muncul. Halaman Dashboard di gunakan untuk Admin dapat melihat total pelanggan, total user, total mitra, data pelanggan, Presentase kondisi aset, Pertumbuhan pelanggan, dan Product terbaru.
 |  |  |
-| ![alt text](Website_image/admin_mitra.png?raw=true) Pada halaman Mitra, Admin dapat melihat dan menambahkan data mitra.
+| ![alt text](Website_Image/admin_mitra.png?raw=true) Pada halaman Mitra, Admin dapat melihat dan menambahkan data mitra.
 |  |  |
-| ![alt text](Website_image/admin_user.png?raw=true) Pada halaman User, Admin dapat melihat dan menambahkan data User.
+| ![alt text](Website_Image/admin_user.png?raw=true) Pada halaman User, Admin dapat melihat dan menambahkan data User.
 |  |  |
-| ![alt text](Website_image/admin_pelanggan.png?raw=true) Pada halaman Pelanggan, Admin dapat melihat dan menambahkan data pelanggan. 
+| ![alt text](Website_Image/admin_pelanggan.png?raw=true) Pada halaman Pelanggan, Admin dapat melihat dan menambahkan data pelanggan. 
 |  |  |
-| ![alt text](Website_image/admin_product.png?raw=true) Pada halaman Product, Admin dapat mengelola data Product, yang di mana admin dapat Memasukan Image Product, Memberikan keterangan Product dan Memberikan deskripsi Product. Pada halaman ini juga, admin dapat melakukan Delete product, Tambah Product, Edit Product dan menyimpan Product yang telah di perbarui oleh admin.
+| ![alt text](Website_Image/admin_product.png?raw=true) Pada halaman Product, Admin dapat mengelola data Product, yang di mana admin dapat Memasukan Image Product, Memberikan keterangan Product dan Memberikan deskripsi Product. Pada halaman ini juga, admin dapat melakukan Delete product, Tambah Product, Edit Product dan menyimpan Product yang telah di perbarui oleh admin.
 |  |  |
-|![alt text](Website_image/admin_asset.png?raw=true) Pada halaman asset, Admin dapat melihat dan menambahkan data asset. 
+|![alt text](Website_Image/admin_asset.png?raw=true) Pada halaman asset, Admin dapat melihat dan menambahkan data asset. 
 |  |  |
-|![alt text](Website_image/admin_asset.png?raw=true) Pada halaman asset, Admin dapat melihat dan menambahkan data asset.
+|![alt text](Website_Image/admin_asset.png?raw=true) Pada halaman asset, Admin dapat melihat dan menambahkan data asset.
 |  |  |
-|[alt text](Website_image/admin_Kasir.png?raw=true) Pada halaman Kasir, Admin dapat melihat dan menambahkan data pelanggan seperti nama pelanggan, pesanan, tanggal pemesanan, jumlah pemesanan , total harga, dan metode pembayaran.
+|[alt text](Website_Image/admin_Kasir.png?raw=true) Pada halaman Kasir, Admin dapat melihat dan menambahkan data pelanggan seperti nama pelanggan, pesanan, tanggal pemesanan, jumlah pemesanan , total harga, dan metode pembayaran.
  
 
 
@@ -93,17 +93,17 @@ Website Seroo memiliki 2 pengunjung yaitu admin dan Pelanggan. Admin mempunyai f
 **Halaman User**
 |  |  |
 |--|--|
-| ![alt text](Website_image/Home.png) Pada halaman pelanggan terdapat langsung halaman home yang dapat di scrolling, yang mana halaman home berisi seluruh konten seperti layanan, Product , about , Team , Lokasi dan Admin..
+| ![alt text](Website_Image/Home.png) Pada halaman pelanggan terdapat langsung halaman home yang dapat di scrolling, yang mana halaman home berisi seluruh konten seperti layanan, Product , about , Team , Lokasi dan Admin..
 |  |  |
-| ![alt text](Website_image/Layanan.png?raw=true) Pada Halaman Layanan, Pengunjung dapat melihat layanan yang di berikan oleh Seroo.
+| ![alt text](Website_Image/Layanan.png?raw=true) Pada Halaman Layanan, Pengunjung dapat melihat layanan yang di berikan oleh Seroo.
 |  |  |
-| ![alt text](Website_image/Product.png?raw=true) Pada halaman Product, Pelanggan dapat melihat Product apa saja yang di berikan oleh seroo, dengan terdapat gambar, deskripsi product dan harga Product.
+| ![alt text](Website_Image/Product.png?raw=true) Pada halaman Product, Pelanggan dapat melihat Product apa saja yang di berikan oleh seroo, dengan terdapat gambar, deskripsi product dan harga Product.
 |  |  |
-| ![alt text](Website_image/About.png?raw=true) Pada halaman About, Pelanggan dapat melihat perjalanan dan Proses dari Bisnis Seroo.
+| ![alt text](Website_Image/About.png?raw=true) Pada halaman About, Pelanggan dapat melihat perjalanan dan Proses dari Bisnis Seroo.
 |  |  |
-| ![alt text](Website_image/Team.png?raw=true) Pada halaman Team, Pelanggan dapat melihat team Developer yang mengembangkan website dari Seroo.
+| ![alt text](Website_Image/Team.png?raw=true) Pada halaman Team, Pelanggan dapat melihat team Developer yang mengembangkan website dari Seroo.
 |  |  |
-| ![alt text](Website_image/Location.png?raw=true) Pada halaman Lokasi, Pelanggan dapat melihat OUTLET dari seroo, yang nantinya akan mengarahkan langsung ke maps.
+| ![alt text](Website_Image/Location.png?raw=true) Pada halaman Lokasi, Pelanggan dapat melihat OUTLET dari seroo, yang nantinya akan mengarahkan langsung ke maps.
 
 
 **2.1.3 Antarmuka perangkat keras**
