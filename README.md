@@ -188,7 +188,7 @@ Use Case: Input Mitra
 
 Diagram:
 
-![alt text](UCD/Admininputdatamitra.png?raw=true)
+![alt text](UCD/admininputdatamitra.png?raw=true)
 
 Deskripsi Singkat
 Admin Menginput data Mitra.
@@ -206,7 +206,7 @@ Use Case: Input User
 
 Diagram:
 
-![alt text](UCD/Admininputdatauser.png?raw=true)
+![alt text](UCD/admininputdatausser.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan Data User.
@@ -224,7 +224,7 @@ Use Case: Input Pelanggan
 
 Diagram:
 
-![alt text](UCD/Admininputdatapelanggan.png?raw=true)
+![alt text](UCD/admininputdatapelanggan.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan data Pelanggan.
@@ -242,7 +242,7 @@ Use Case: Input Asset
 
 Diagram:
 
-![alt text](UCD/Admininputdataasset.png?raw=true)
+![alt text](UCD/admininputdatausser.png?raw=true)
 
 Deskripsi Singkat
 Admin menginputkan data Asset.
@@ -253,6 +253,24 @@ Deskripsi Langkah- langkah:
 3. Sistem akan menyimpan ke database.
 
 Xref: Bagian 3.2.6, Input data Asset
+
+**2.2.6 Admin Input Penjualan**
+
+Use Case: Input Penjualan
+
+Diagram:
+
+![alt text](UCD/admininputdatapenjualan.png?raw=true)
+
+Deskripsi Singkat
+Admin menginputkan data Asset.
+
+Deskripsi Langkah- langkah:
+1. Sistem akan menampilkan tampilan data Kasir.
+2. Admin Dapat melihat,menambahkan dan menghapus data Kasir .
+3. Sistem akan menyimpan ke database.
+
+Xref: Bagian 3.2.6, Input data Penjualan
 
 
 **2.2.7 pengunjung Mengunjungi website**
